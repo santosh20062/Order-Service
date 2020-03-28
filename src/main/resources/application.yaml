@@ -1,0 +1,12 @@
+
+spring:
+  data:
+    mongodb:
+      database:
+        OrderService
+      port:
+        - 27017:27017
+
+server:
+  port:
+    18083
